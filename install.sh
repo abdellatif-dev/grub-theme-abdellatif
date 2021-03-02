@@ -8,10 +8,6 @@ txtcyn=$(tput setaf 6) # Cyan
 txtwht=$(tput setaf 7) # White
 txtrst=$(tput sgr0) # Text reset.
 
-git clone https://github.com/abdellatif-dev/grub-theme-abdellatif.git ~/.cache/theme
-cd  ~/.cache/theme
-
-
 echo ${txtgrn}installing grub theme-abdellatif ${txtrst}
 echo -e "${txtcyn}by\033[1m abdellatif-dev${txtrst}"
 echo -e "${txtblu}github =${txtgrn}\033[1m https://github.com/abdellatif-dev${txtrst}"
