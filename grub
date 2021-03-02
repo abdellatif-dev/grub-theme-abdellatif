@@ -37,8 +37,8 @@ GRUB_DISABLE_RECOVERY="true"
 
 
 # Uncomment one of them for the gfx desired, a image background or a gfxtheme
-GRUB_BACKGROUND="/boot/grub/themes/grub-theme-abdellatif/wallpaper.png"
-GRUB_FONT="/boot/grub/themes/grub-theme-abdellatif/font/font.pf2"
+GRUB_BACKGROUND="/boot/grub/themes/grub-abdellatif/wallpaper.png"
+GRUB_FONT="/boot/grub/themes/grub-abdellatif/font/font.pf2"
 #GRUB_THEME="/boot/grub/themes/starfield/theme.txt"
 
 # Uncomment to get a beep at GRUB start
