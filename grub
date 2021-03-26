@@ -1,8 +1,8 @@
 # GRUB boot loader configuration
 
-GRUB_DEFAULT="Artix Linux"
+# GRUB_DEFAULT="Artix Linux"
 GRUB_TIMEOUT="5"
-GRUB_DISTRIBUTOR="Artix"
+# GRUB_DISTRIBUTOR="Artix"
 GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 quiet"
 GRUB_CMDLINE_LINUX=""
 
